@@ -2,7 +2,7 @@
 
 **In this project we will look at integration of Hive with HBase**.<br></br>
 
-Before going through the dataset that we loaded in HBase and looking at different features of the dataset lets start by learning about Hive and HBase.<br>
+Before going through the dataset  that we loaded in HBase and looking at different features of the dataset lets start by learning about Hive and HBase.<br>
 
 **What is Hive?**
 
