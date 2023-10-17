@@ -26,6 +26,9 @@ Apache Hive is a distributed, fault-tolerant data warehouse system that enables 
    **Important Note: Please go through the dataset before jumping to the code**.
 
 
+   **So what are you waiting for..? Jump to the code to get started learning this amazing stuff. As usual for any doubt or query see you in pull request section 😁😂. Thanks!
+
+
    
 
 
